@@ -1,5 +1,5 @@
-! Title: webweb/customlist.txt
-! Description: Blocks some shiit.
+! Title: Test affinity blocks
+! Description: Test
 ! Version: 1.0.0.21
 ! TimeUpdated: 2019-08-30T17:45:19+03:00
 ! Expires: ??
