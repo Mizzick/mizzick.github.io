@@ -1,1 +1,1 @@
-||block.test.com^
+block.test-id.com
