@@ -1,0 +1,7 @@
+{
+  "filters": {
+    "games": {
+      "downloadUrl": "https://filters.adtidy.org/dns/category/games.txt"
+    }
+  }
+}
